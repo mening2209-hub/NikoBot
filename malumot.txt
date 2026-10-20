@@ -1,0 +1,21 @@
+Kirim | Sinov Mahsulot | 1 | 1000000
+Chiqdi | Sinov Xarajat | 1 | 200000
+
+"chiqdi ofis ijarasi 1 dona 2500000"
+
+"oylik Anvar 1 dona 4000000" | 1 | 0
+
+Chiqdi | Svet | 1 | 350000
+
+Oylik | Anvar | 1 | 4500000
+Chiqdi | Coca Cola | 2.0 | 12000.0 | 2026-09-16
+Kirim | Non | 5.0 | 4000.0 | 2026-09-16
+Chiqdi | Coca Cola | 2.0 | 12000.0 | 2026-09-24
+Chiqdi | Coca Cola | 2.0 | 12000.0 | 2026-09-24
+Chiqdi | Coca Cola | 2.0 | 12000.0 | 2026-09-24
+Chiqdi | Telegramda anvar akani och | 1 | 0 | 2026-09-24
+Chiqdi | Sen nimalar qila olas | 1 | 0 | 2026-09-24
+Chiqdi | Ofis ijarasi | 1 | 0 | 2026-09-24
+Chiqdi | Xatolik: recognition connection failed: [errno 11001] getaddrinfo failed | 1 | 0 | 2026-09-29
+Chiqdi | Xatolik: recognition connection failed: [errno 11001] getaddrinfo failed | 1 | 0 | 2026-09-29
+Chiqdi | Ombordagi cola miqdorini chiqar | 1 | 0 | 2026-10-01

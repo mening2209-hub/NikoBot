@@ -1,0 +1,22 @@
+Kirim | Mahsulot sotuvi | 10 | 1500000 | 2026-10-04
+Chiqdi | Ofis ijarasi | 1 | 2500000 | 2026-10-04
+Chiqdi | kirim 100 blok pepsi | 1 | 0 | 2026-10-05
+Chiqdi | kirim 100 blok salfetka | 1 | 0 | 2026-10-05
+Chiqdi | kirim 500 kg gosh | 1 | 0 | 2026-10-05
+Chiqdi | kirim 1000 bok pepsi | 1 | 0 | 2026-10-05
+Chiqdi | Kirim | Coca cola | 50 | 12000 | 2026-10-05
+Kirim | Non | 100 | 3000 | 2026-10-05 | 1 | 0 | 2026-10-05
+Chiqdi | kirish 2000 pepsi | 1 | 0 | 2026-10-05
+Chiqdi | hop unda 1000 ta pepsi kiritib qoy | 1 | 0 | 2026-10-06
+Chiqdi | men senga hozir 1100ta pepsi kirit dedimku | 1 | 0 | 2026-10-06
+Kirim | Pepsi | 1000.0 | 5000.0 | 2026-10-06
+Chiqdi | Ombordan pepsi | 572.0 | 0.0 | 2026-10-06
+Chiqdi | kirdi 768 ta salfeyka | 1 | 0 | 2026-10-06
+Chiqdi | 1 haftalik kirim chiqiqmni ayt | 1 | 0 | 2026-10-07
+Kirim | Ombor baraka pecheni qoshib qoy | 2890.0 | 0.0 | 2026-10-07
+Kirim | Kartoshka | 800.0 | 0.0 | 2026-10-08
+Kirim | Ruchka | 50.0 | 0.0 | 2026-10-08
+Kirim | Olma | 300.0 | 0.0 | 2026-10-08
+Kirim | Fan | 900.0 | 0.0 | 2026-10-09
+Xarajat | Biznesni rivojlantirish uchun 3 ta maslahat ber | 1 | 0 | 2026-10-09
+Kirim | Ruchka | 20.0 | 0.0 | 2026-10-10

@@ -1,0 +1,14 @@
+[
+    {
+        "time": "2026-09-10 [20:16:58]",
+        "content": " Bu görsel, bir kullanıcıya ait olan bir ekran veya bilgisayarın bir parçası gösterir. Ekranda, bir uygulama yeni bir dosya eklemek için bir iletişim kutusu açıldığı bir çizim görür. İletişim kutusu üstüne, bir komut çıkmış veya tamamen görülemezken bir dil öğeleri gösterir.\n\nEkranda görmüş olan bir dosya adı \"config.json\" olduğunu belirleyebiliriz. Bu dosya, genellikle uygulamaların ayarları içermek için kullanılır. Bu tür dosyalar, uygulamaların çalışması veya güncelleşmesi için gereken tüm ayarları içerir.\n\nBu ekranı bir kullanıcı tarafından çalıştığı veya şu anda düşük halde yer aldığını belirlemek için, bir ekran sağındaki bir kare görüne bakın. Ekran sağında görmüş olarak görülen bir uygulama, \"Discord\" adına sahiptiğini belirleyebiliriz. Bu uygulama, bir chat platformu olan bir Discord sunucusundan biri olabilir veya bir bota olan bir uygulamadır.\n\nGörselde görmüş bir Discord iletişimi görüyorsa, bir iletişim çıktığını belirlemek için, iletişim kutusundaki texti göz çağırın. Ayrıca, ekranda görmüş bir dosya, \"config.json\" olduğunu belirlemek için, dosya adını göz çağırın.\n\nEğer ekran daha detaylı bir tasarım veya bilgiler hakkında bilgiye ihtiyacınız varsa, lütfen aşağıdaki alanı doldurun veya bir soru sorun. "
+    },
+    {
+        "time": "2026-09-10 [20:19:27]",
+        "content": " Ekranın içinde görülen bir uygulama arayını anlamak için, ekranın bir parçasındaki ikonlar ve yazıları dikkete almak ve bu ikonlar ve yazıların işlemi ve birkaç kullanıcıya odaklanmak için zorlukları ve kullanıcıların ekranın bir parçasındaki düğmeye tıklamak için anlamak gerekir. "
+    },
+    {
+        "time": "2026-09-11 [01:01:25]",
+        "content": " Bu ekran, bir hata mesajı gösterir veya bir uyarı. Mesajda \"500 Internal Server Error\" yazılarak, sunucuya bir sorun olabilir ve sistemin güncel durumu göstermektedir. Mesajda \"Hata: 500 Internal Server Error\" yazılarak, bu hata, sunucun daha önemli bir hata olarak düşünülebilir ve 500 sayısında bir sunucu hata mesajıdır. Bu hata, bir web sunucu tarzında bir hata nedeniyle oluşmuş olabilir ve kullanıcın şık bir durumda bulunabilir.\n\nEkranın üstünde bir web sayfası görünük veya bir web uygulaması gösterilmiş gibi bir yapım, ancak bu birleşim, hata mesajı gösterilmiş veya yöntüleme gibi iki farklı ekran görünük.\n\nDikkat edilebilecek noktalar:\n\n* \"500 Internal Server Error\" mesajınızle\n* Sistemin güncel durumu\n* Ekranın iki bölgesinin aynı durumda olması\n* \"Anık\" veya \"Uyarı\" mesajınızle\n\nBu durumda, sistemin güncel durumu gösterilebilir veya uyarı olabilir. Dikkat edilmesi gereken, bu hata durumunda bulunulup şık hale getirilirse, kullanıcı, sistemin daha önemli bir hata mesajında bulunabilir veya sistemin güncel durumu gösterilmesi gereken. "
+    }
+]

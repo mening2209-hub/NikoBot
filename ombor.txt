@@ -1,0 +1,4 @@
+﻿pepsi:11500:40
+coca cola:12000:50
+fanta:11000:30
+nestle suv:3000:100
