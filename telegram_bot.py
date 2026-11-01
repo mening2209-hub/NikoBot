@@ -62,4 +62,5 @@ if __name__ == '__main__':
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
     
     print("🚀 Bot muvaffaqiyatli ishga tushdi!")
-    app.run_polling()
+    # drop_pending_updates=True eski konflikt so'rovlarni tozalaydi
+    app.run_polling(drop_pending_updates=True)
